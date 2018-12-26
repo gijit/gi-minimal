@@ -141,8 +141,9 @@ The REPL is now a better calculator and displayer of answers.
 Simple math like `1 + 2` and expressions like `math.Exp(4)`
 will print their answers automatically.
 
-Also we slimmed down the repo of history, here at v2.0.2;
-the original repo will be renamed `gi-large` and we will take over as `gi`.
+Also here at v2.0.2 we made a minimized version of
+the repo `gi-minimal`. `gi-minimal` gets rid of
+extra repo backage and is faster to download and build.
 
 2018 Dec 14 update
 ------------------------------
